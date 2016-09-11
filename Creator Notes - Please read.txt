@@ -1,0 +1,24 @@
+Some of the code of the game might not fully represent the current skills of the creator. 
+The models and textures are from free internet sources.
+The game is based mostly on the usage of DirectX SDK functionality, thus the gameplay is reduced to 2 levels of very simple First Person Shooter functionality "demo":
+
+Code only:
+Contains ONLY the code of the game in order to minimize the size of the archive. The media files of the game are in the "Exe Only" folder.
+The project is labeled "Testing" as it is originaly a project made out of multiple DirectX SDK tests.
+
+Exe Only:
+An executable version of the game, should work on most Windows OS( XP or newer)
+
+Usage:
+MENU:
+Arrowkeys for navigation
+
+Game:
+Movement:    WASD
+Fire:        Mouse-Left(enemies takes 10 hits to kill)
+Jump:        Space
+
+DevTools:
+Wireframe Mode:   keyboard "1"
+Normal Mode:      keyboard "2"
+
